@@ -27,3 +27,6 @@ Xmind tool **https://xmind.app/**
 
 ## Xmind Diagram
 [SearchMindMap.xmind](assets%2FSearchMindMap.xmind)
+
+## Task Sended
+![](assets/Screenshot%202024-09-26%20123410.png)
