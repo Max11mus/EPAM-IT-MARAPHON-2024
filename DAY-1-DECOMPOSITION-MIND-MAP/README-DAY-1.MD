@@ -22,3 +22,7 @@ Decompose highlighted with orange color.
 AI tool - **https://mapify.so/app**   
 ![](filter-and-sorting.png)
 
+Xmind tool **https://xmind.app/**
+![](Search%20Funcionality.png)
+
+## [Xmind Diagram](Search Funcionality.xmind)
