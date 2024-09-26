@@ -15,14 +15,15 @@ Decompose **Search Filter** and **Search Sorting**
 
 ## Task
 Decompose highlighted with orange color.
-![Given MindMap](Task.png)
+![Given MindMap](assets/Task.png)
 ## Mindmap Visualization
 
 
 AI tool - **https://mapify.so/app**   
-![](filter-and-sorting.png)
+![](assets/filter-and-sorting.png)
 
 Xmind tool **https://xmind.app/**
-![](Search%20Funcionality.png)
+![](assets/SearchFuncionality.png)
 
-## [Xmind Diagram](Search Funcionality.xmind)
+## Xmind Diagram
+[SearchMindMap.xmind](assets%2FSearchMindMap.xmind)
